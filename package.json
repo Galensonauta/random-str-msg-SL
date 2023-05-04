@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-sl",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndx/random-str-msg-sl.git"
+  },
+  "keywords": [],
+  "author": "galenso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/random-str-msg-sl/issues"
+  },
+  "homepage": "https://github.com/gndx/random-str-msg-sl#readme",
+  "bin": {
+    "random-str-msg-sl": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
